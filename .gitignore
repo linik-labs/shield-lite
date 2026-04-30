@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+shield-devnet.json
+shield-mainnet.json
+logs/
+*.log
+archive/
+data/
+scripts/
